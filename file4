@@ -1,0 +1,19 @@
+================================
+
+Create a file in github on master branch and pull the file to merge in local repoisotry master branch
+
+
+Once file is create don master branch of remote repo
+
+go to local repo
+
+# git checkout master
+
+# git pull origin master
+
+pull will fecth changes and merge them with LR and WD
+
+================================
+
+
+Clone a r
